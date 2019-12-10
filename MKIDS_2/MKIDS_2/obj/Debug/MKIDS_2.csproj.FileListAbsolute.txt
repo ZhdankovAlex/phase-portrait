@@ -1,0 +1,9 @@
+c:\users\alexey\documents\visual studio 2015\Projects\MKIDS_2\MKIDS_2\bin\Debug\MKIDS_2.exe.config
+c:\users\alexey\documents\visual studio 2015\Projects\MKIDS_2\MKIDS_2\bin\Debug\MKIDS_2.exe
+c:\users\alexey\documents\visual studio 2015\Projects\MKIDS_2\MKIDS_2\bin\Debug\MKIDS_2.pdb
+c:\users\alexey\documents\visual studio 2015\Projects\MKIDS_2\MKIDS_2\obj\Debug\MKIDS_2.csprojResolveAssemblyReference.cache
+c:\users\alexey\documents\visual studio 2015\Projects\MKIDS_2\MKIDS_2\obj\Debug\MKIDS_2.Form1.resources
+c:\users\alexey\documents\visual studio 2015\Projects\MKIDS_2\MKIDS_2\obj\Debug\MKIDS_2.Properties.Resources.resources
+c:\users\alexey\documents\visual studio 2015\Projects\MKIDS_2\MKIDS_2\obj\Debug\MKIDS_2.csproj.GenerateResource.Cache
+c:\users\alexey\documents\visual studio 2015\Projects\MKIDS_2\MKIDS_2\obj\Debug\MKIDS_2.exe
+c:\users\alexey\documents\visual studio 2015\Projects\MKIDS_2\MKIDS_2\obj\Debug\MKIDS_2.pdb
